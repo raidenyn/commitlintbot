@@ -67,7 +67,6 @@ The responses of the webhook should be minimally helpful:
 
 
 
-
 ## LICENSE
 
 MIT
